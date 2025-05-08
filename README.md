@@ -37,8 +37,7 @@ using name 'alias' for "URL"
 
 * git push Alias branchName
 
-git add . 
-git comm
+this is a test of the gitpull push system im in the newBranch
 
 
 ---
