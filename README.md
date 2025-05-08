@@ -25,6 +25,7 @@
 `git log` - show local commit history
 `git log --oneline` show local commit hisotry, compact
 
+`git version` show version installed
 
 ### Branching Commands
 * git branch' - list local branches
@@ -33,6 +34,8 @@
 ### Remote Commands
 *| 'git remote add alias URL' - connect local repo to remote,
 using name 'alias' for "URL"
+
+* git push Alias branchName
 
 
 
