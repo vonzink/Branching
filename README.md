@@ -37,7 +37,8 @@ using name 'alias' for "URL"
 
 * git push Alias branchName
 
-
+git add . 
+git comm
 
 
 ---
