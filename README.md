@@ -1,4 +1,4 @@
-# Git Branch Practice
+# Git Branch Practiceg
 
 ## Description
 
@@ -28,11 +28,14 @@
 
 ### Branching Commands
 * git branch' - list local branches
-`git branch branchName` - create new branch "branchName'
-`git checkout branchName` - switch to branc 'branchName'
+`git branch branchName` - create new branch "branchName'`git checkout branchName` - switch to branc 'branchName'
+
+### Remote Commands
+*| 'git remote add alias URL' - connect local repo to remote,
+using name 'alias' for "URL"
 
 
----
+
 
 ---
 
